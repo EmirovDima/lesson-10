@@ -1,0 +1,40 @@
+    * {
+    margin: 0px;
+    padding: 0px;
+}
+    .header {
+    height: 100vh;
+    background-image: url("priroda.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+    .content {
+    color: white;
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Arima', cursive;
+}
+   .big-title {
+    font-size: 120px;
+    font-family: 'Bangers', cursive;
+}
+    .buttom {
+    color: #367BF5;
+    text-decoration: none;
+    background-color: #E5EFFF;
+    display: block;
+    width: 100px;
+    margin: auto;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    font-family: 'Bangers', cursive;
+}
+
+ .buttom:hover {
+    background-color: #367BF5;
+    color: white;
+ }
